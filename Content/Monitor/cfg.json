@@ -1,0 +1,12 @@
+{
+    "encoding": "utf-8",
+    "default": [ "start.html", "index.html", "default.html" ],
+    "content": "d:\\projects\\sws\\releases\\ioserver\\content\\default\\monitoring",
+    "pages": "d:\\projects\\sws\\releases\\ioserver\\content\\default\\monitoring\\pages",
+    "bin":
+    [
+        "d:\\projects\\sws\\releases\\ioserver\\content\\default\\bin\\iocontent.dll",
+        "\\content\\monitor\\bin\\iomonitor.dll"
+    ],
+    "cors": false
+}

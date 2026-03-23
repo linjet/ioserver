@@ -1,0 +1,12 @@
+{
+    "encoding": "utf-8",
+    "default": [ "start.html", "index.html", "default.html" ],
+    "content": "d:\\projects\\sws\\releases\\ioserver\\content\\default\\configuration",
+    "pages": "d:\\projects\\sws\\releases\\ioserver\\content\\default\\configuration\\pages",
+    "bin":
+    [
+        "d:\\projects\\sws\\releases\\ioserver\\content\\default\\bin\\iocontent.dll",
+        "\\content\\serverconfig\\bin\\ioconfig.dll"
+    ],
+    "cors": false
+}
